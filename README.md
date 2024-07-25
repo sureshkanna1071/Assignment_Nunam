@@ -31,3 +31,7 @@ This project involves creating a dynamic dashboard to visualize data using Flask
 - Open your web browser and go to `http://localhost:3000` to view the React frontend.
 - The React app will interact with the Flask backend running at `http://localhost:5000`.
 
+## Demo
+
+![Project Demonstration](https://github.com/sureshkanna1071/Assignment_Nunam/blob/main/video1329869556.gif?raw=true)
+
